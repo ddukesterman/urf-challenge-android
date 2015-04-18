@@ -17,6 +17,8 @@ What to do in the Future:
 
 The app is in working condition but still need tweaking. Images below are from a running app and are not comps.
 
+APK is on github if you would like to run it on an android device.
+
 Wish I had more time to work on this. Thanks for the Competition!
 
 ![Alt text](https://github.com/ddukesterman/urf-challenge-android/blob/master/1.png )
