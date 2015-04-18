@@ -1,5 +1,7 @@
 # urf-challenge-android
 
+![Alt text](https://github.com/ddukesterman/urf-challenge-android/blob/master/ic_urf_icon.png )
+
 This Android mobile app will keep the user up-to-date (urf-to-date) on what is happening now in URF Mode! 
 
 Things can change quickly in League of Legends. In URF Mode, things change VERY quickly! 
