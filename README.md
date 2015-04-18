@@ -15,6 +15,8 @@ What to do in the Future:
   - Notify the user with push notifications letting them know someone they are following just won/lost.
   - Log in with your accounf and talk to friends.
 
+The app is in working condition but still need tweaking. Images below are from a running app and are not comps.
+
 Wish I had more time to work on this. Thanks for the Competition!
 
 ![Alt text](https://github.com/ddukesterman/urf-challenge-android/blob/master/1.png )
