@@ -23,6 +23,8 @@ APK is on github if you would like to run it on an android device.
 
 Wish I had more time to work on this. Thanks for the Competition!
 
+https://www.youtube.com/watch?v=XInCAy2d9so
+
 ![Alt text](https://github.com/ddukesterman/urf-challenge-android/blob/master/1.png )
 
 
